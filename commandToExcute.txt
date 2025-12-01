@@ -1,0 +1,2 @@
+$env:TCL_LIBRARY='C:\Users\louay\AppData\Local\Programs\Python\Python313\tcl\tcl8.6'; $env:TK_LIBRARY=
+     'C:\Users\louay\AppData\Local\Programs\Python\Python313\tcl\tk8.6'; .\.venv\Scripts\python.exe .\TP1_Squelette.py
